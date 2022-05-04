@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389883303674",
+    "project_id": "live-nmtc",
+    "storage_bucket": "live-nmtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389883303674:android:46167f0cd6f16d9e13db43",
+        "android_client_info": {
+          "package_name": "com.NationalMicrosoftTechnologiesCamp.LIVENMTC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389883303674-4ikb7rmrjeger40r92k2d4r4igcrj13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImOMiSVWFMpDJw7EmXs3rgfR2RVNfZms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389883303674-4ikb7rmrjeger40r92k2d4r4igcrj13v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

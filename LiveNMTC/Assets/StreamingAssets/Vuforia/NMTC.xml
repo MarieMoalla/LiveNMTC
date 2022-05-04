@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="planingfull" size="4.000000 5.657925" />
+    <ImageTarget name="planning" size="4.000000 2.947723" />
+    <ImageTarget name="rfc" size="4.000000 4.000000" />
+    <ImageTarget name="paxful" size="4.000000 4.000000" />
+    <ImageTarget name="ins" size="4.000000 4.000000" />
+    <ImageTarget name="fsi" size="4.000000 4.000000" />
+    <ImageTarget name="nmtc" size="4.000000 4.000000" />
+    <ImageTarget name="Bigger_Sticker" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
