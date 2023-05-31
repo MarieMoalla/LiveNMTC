@@ -1,5 +1,7 @@
 
-<img src="[https://github.com/MarieMoalla/Adopt-a-pet/blob/main/app/src/main/res/drawable/s1.jpg?raw=true](https://play-lh.googleusercontent.com/JhhJHbjbKsaXRHm1HilNHwlfDS1HxjOORUqdcrfD2UzLp2rOLxx5EfujwU-NkMNT8c4=w240-h480-rw)" align="center">
+<center>
+<img src="https://play-lh.googleusercontent.com/JhhJHbjbKsaXRHm1HilNHwlfDS1HxjOORUqdcrfD2UzLp2rOLxx5EfujwU-NkMNT8c4=w240-h480-rw">
+  </center>
 
 # Live NMTC
 
